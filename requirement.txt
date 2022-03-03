@@ -1,0 +1,10 @@
+absl
+tqdm
+json
+numpy
+pillow
+requests
+scikit-learn
+matplotlib
+tensorflow==2.8.0
+flask
